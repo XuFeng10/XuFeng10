@@ -1,14 +1,12 @@
+## Regarding myself
 
-
-## 关于本人
-
-一名学生，具备一定的编码设计能力，正在学习信息竞赛。
+A student with certain coding design skills is currently studying information competitions.
 
 
 
-## 一些网页工具
+## Some web tools
 
-- [原题机](http://yuantiji.ac/zh/)
-- [白板](https://excalidraw.com/)
-- [LaTeX公式编辑器](https://www.latexlive.com/)
-- [模拟图](https://csacademy.com/app/graph_editor/)
+- [Original question machine]（ http://yuantiji.ac/zh/ )
+- [Whiteboard]（ https://excalidraw.com/ )
+- [LaTeX Formula Editor]（ https://www.latexlive.com/ )
+- [Simulation diagram]（ https://csacademy.com/app/graph_editor/ )
